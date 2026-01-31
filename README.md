@@ -34,7 +34,6 @@
 ### Currently exploring (Self-hosting / Infra / AI)
 ![Proxmox](https://img.shields.io/badge/Proxmox-111?style=flat-square&logo=proxmox)
 ![TrueNAS](https://img.shields.io/badge/TrueNAS-111?style=flat-square&logo=truenas)
-![Home Assistant](https://img.shields.io/badge/Home%20Assistant-111?style=flat-square&logo=homeassistant)
 ![n8n](https://img.shields.io/badge/n8n-111?style=flat-square&logo=n8n)
 ![Ollama](https://img.shields.io/badge/Ollama-111?style=flat-square&logo=ollama)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-111?style=flat-square&logo=kubernetes)
