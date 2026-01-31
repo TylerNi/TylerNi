@@ -9,10 +9,10 @@
 ## 🧭 About Me / À propos de moi
 
 **EN:** Engineering student based in Montréal. I like building practical projects, automating workflows, and learning how systems work from the ground up.  
-**FR:** Étudiant en génie à Montréal. J’aime construire des projets concrets, automatiser des workflows, et comprendre les systèmes “de A à Z”.
+**FR:** Étudiant en génie à Montréal. J’aime construire des projets concrets, automatiser des workflows, et comprendre les systèmes en profondeur.
 
 - 🎓 Étudie au **CUT** à **l’ÉTS Montréal**
-- 🌱 En apprentissage: **Git**, dev backend, **networking**, infra & self-hosting
+- 🌱 En apprentissage: Git, dev backend, networking, infra & self-hosting
 - 🧠 Interests: automation, home servers, Linux, programming fundamentals
 - 📌 Goal: internships, collaboration, and real-world engineering projects
 
