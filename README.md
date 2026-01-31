@@ -8,7 +8,6 @@
   <a href="https://github.com/TylerNi">
     <img src="https://img.shields.io/badge/GitHub-TylerNi-181717?style=for-the-badge&logo=github" />
   </a>
-  <!-- Ajoute LinkedIn si tu en as un -->
   <a href="[https://www.linkedin.com/in/ton-lien]">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
@@ -25,7 +24,7 @@
 **FR:** Étudiant en génie à Montréal. J’aime construire des projets concrets, automatiser des workflows, et comprendre les systèmes “de A à Z”.
 
 - 🎓 Étudie au **CUT** à **l’ÉTS Montréal**
-- 🌱 En apprentissage: **Git/GitHub**, dev backend, infra & self-hosting
+- 🌱 En apprentissage: **Git**, dev backend, **networking**, infra & self-hosting
 - 🧠 Interests: automation, home servers, Linux, programming fundamentals
 - 📌 Goal: internships, collaboration, and real-world engineering projects
 
@@ -37,24 +36,24 @@
 ![Python](https://img.shields.io/badge/Python-111?style=flat-square&logo=python)
 ![Java](https://img.shields.io/badge/Java-111?style=flat-square&logo=openjdk)
 ![JavaScript](https://img.shields.io/badge/JavaScript-111?style=flat-square&logo=javascript)
+![Assembly](https://img.shields.io/badge/Assembly-111?style=flat-square&logo=assemblyscript)
 
 ### Systems / DevOps
 ![Linux](https://img.shields.io/badge/Linux-111?style=flat-square&logo=linux)
 ![Docker](https://img.shields.io/badge/Docker-111?style=flat-square&logo=docker)
 ![Git](https://img.shields.io/badge/Git-111?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-111?style=flat-square&logo=github)
 
-### Currently exploring
+### Currently exploring (Self-hosting / Infra / AI)
+![Proxmox](https://img.shields.io/badge/Proxmox-111?style=flat-square&logo=proxmox)
 ![TrueNAS](https://img.shields.io/badge/TrueNAS-111?style=flat-square&logo=truenas)
 ![Home Assistant](https://img.shields.io/badge/Home%20Assistant-111?style=flat-square&logo=homeassistant)
 ![n8n](https://img.shields.io/badge/n8n-111?style=flat-square&logo=n8n)
+![Ollama](https://img.shields.io/badge/Ollama-111?style=flat-square&logo=ollama)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-111?style=flat-square&logo=kubernetes)
 
 ---
 
 ## 🚀 Featured Projects
-
-> Mets ici 2–4 projets max (les meilleurs).  
-> Idéalement: 1 phrase, technos, lien.
 
 - **[Project Name 1]** — Short description (what it does + why it matters).  
   Tech: `Python`, `Docker`, `Linux` • Repo: [link]
@@ -84,8 +83,6 @@
 - LinkedIn: [ton lien]
 - Email: [ton email]
 - Location: Montréal, QC
-
----
 
 <details>
   <summary>📝 Notes</summary>
