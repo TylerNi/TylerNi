@@ -39,37 +39,33 @@
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-111?style=flat-square&logo=kubernetes)
 
 ### Self-hosted stack
-![TrueNAS](https://img.shields.io/badge/TrueNAS--111?style=flat-square&logo=truenas&logoColor=white&labelColor=111)
-![Portainer](https://img.shields.io/badge/Portainer--111?style=flat-square&logo=portainer&logoColor=white&labelColor=111)
-![Windows%20VM](https://img.shields.io/badge/Windows%20VM--111?style=flat-square&logo=vmware&logoColor=white&labelColor=111)
+![TrueNAS](https://img.shields.io/badge/TrueNAS--111?style=flat-square&logo=truenas)
+![Portainer](https://img.shields.io/badge/Portainer--111?style=flat-square&logo=portainer)
+![Windows%20VM](https://img.shields.io/badge/Windows%20VM--111?style=flat-square&logo=windows)
 
-![Cloudflare%20Tunnel](https://img.shields.io/badge/Cloudflare%20Tunnel--111?style=flat-square&logo=cloudflare&logoColor=white&labelColor=111)
-![Tailscale](https://img.shields.io/badge/Tailscale--111?style=flat-square&logo=tailscale&logoColor=white&labelColor=111)
-![WireGuard%20VPN](https://img.shields.io/badge/WireGuard%20VPN--111?style=flat-square&logo=wireguard&logoColor=white&labelColor=111)
+![Cloudflare%20Tunnel](https://img.shields.io/badge/Cloudflare%20Tunnel--111?style=flat-square&logo=cloudflare)
+![Tailscale](https://img.shields.io/badge/Tailscale--111?style=flat-square&logo=tailscale)
+![WireGuard%20VPN](https://img.shields.io/badge/WireGuard%20VPN--111?style=flat-square&logo=wireguard)
 
-![Homarr](https://img.shields.io/badge/Homarr--111?style=flat-square&logo=homarr&logoColor=white&labelColor=111)
-![Home%20Assistant](https://img.shields.io/badge/Home%20Assistant--111?style=flat-square&logo=homeassistant&logoColor=white&labelColor=111)
-![Nextcloud](https://img.shields.io/badge/Nextcloud--111?style=flat-square&logo=nextcloud&logoColor=white&labelColor=111)
-![Immich](https://img.shields.io/badge/Immich--111?style=flat-square&labelColor=111)
-![Filebrowser](https://img.shields.io/badge/Filebrowser--111?style=flat-square&labelColor=111)
+![Homarr](https://img.shields.io/badge/Homarr--111?style=flat-square)
+![Home%20Assistant](https://img.shields.io/badge/Home%20Assistant--111?style=flat-square&logo=homeassistant)
+![Nextcloud](https://img.shields.io/badge/Nextcloud--111?style=flat-square&logo=nextcloud)
+![Immich](https://img.shields.io/badge/Immich--111?style=flat-square)
+![Filebrowser](https://img.shields.io/badge/Filebrowser--111?style=flat-square)
 
-![Jellyfin](https://img.shields.io/badge/Jellyfin--111?style=flat-square&logo=jellyfin&logoColor=white&labelColor=111)
-![Jellyseerr](https://img.shields.io/badge/Jellyseerr--111?style=flat-square&logo=jellyfin&logoColor=white&labelColor=111)
-![qBittorrent](https://img.shields.io/badge/qBittorrent--111?style=flat-square&logo=qbittorrent&logoColor=white&labelColor=111)
-![Radarr](https://img.shields.io/badge/Radarr--111?style=flat-square&labelColor=111)
-![Sonarr](https://img.shields.io/badge/Sonarr--111?style=flat-square&labelColor=111)
-![Prowlarr](https://img.shields.io/badge/Prowlarr--111?style=flat-square&labelColor=111)
-![Tdarr](https://img.shields.io/badge/Tdarr--111?style=flat-square&logo=ffmpeg&logoColor=white&labelColor=111)
+![Jellyfin](https://img.shields.io/badge/Jellyfin--111?style=flat-square&logo=jellyfin)
+![Jellyseerr](https://img.shields.io/badge/Jellyseerr--111?style=flat-square)
+![qBittorrent](https://img.shields.io/badge/qBittorrent--111?style=flat-square&logo=qbittorrent)
+![Radarr](https://img.shields.io/badge/Radarr--111?style=flat-square)
+![Sonarr](https://img.shields.io/badge/Sonarr--111?style=flat-square)
+![Prowlarr](https://img.shields.io/badge/Prowlarr--111?style=flat-square)
+![Tdarr](https://img.shields.io/badge/Tdarr--111?style=flat-square)
 
-![n8n](https://img.shields.io/badge/n8n--111?style=flat-square&logo=n8n&logoColor=white&labelColor=111)
-![Ollama](https://img.shields.io/badge/Ollama--111?style=flat-square&logo=ollama&logoColor=white&labelColor=111)
-![Open%20WebUI](https://img.shields.io/badge/Open%20WebUI--111?style=flat-square&logo=openai&logoColor=white&labelColor=111)
-![Vaultwarden](https://img.shields.io/badge/Vaultwarden--111?style=flat-square&logo=bitwarden&logoColor=white&labelColor=111)
-![Crafty%20Controller](https://img.shields.io/badge/Crafty%20Controller--111?style=flat-square&logo=openjdk&logoColor=white&labelColor=111)
-
-
-
-
+![n8n](https://img.shields.io/badge/n8n--111?style=flat-square&logo=n8n)
+![Ollama](https://img.shields.io/badge/Ollama--111?style=flat-square&logo=ollama)
+![Open%20WebUI](https://img.shields.io/badge/Open%20WebUI--111?style=flat-square&logo=openwebui)
+![Vaultwarden](https://img.shields.io/badge/Vaultwarden--111?style=flat-square&logo=bitwarden)
+![Crafty%20Controller](https://img.shields.io/badge/Crafty%20Controller--111?style=flat-square&logo=minecraft)
 
 ---
 
