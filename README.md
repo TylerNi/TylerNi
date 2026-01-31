@@ -39,33 +39,34 @@
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-111?style=flat-square&logo=kubernetes)
 
 ### Self-hosted stack
-![TrueNAS](https://img.shields.io/badge/TrueNAS--0d1117?style=flat-square&logo=truenas)
-![Portainer](https://img.shields.io/badge/Portainer--0d1117?style=flat-square&logo=portainer)
-![Windows%20VM](https://img.shields.io/badge/Windows%20VM--0d1117?style=flat-square&logo=windows)
+![TrueNAS](https://img.shields.io/badge/TrueNAS-111?style=flat-square&logo=truenas)
+![Portainer](https://img.shields.io/badge/Portainer-111?style=flat-square&logo=portainer)
+![Windows%20VM](https://img.shields.io/badge/Windows%20VM-111?style=flat-square&logo=windows)
 
-![Cloudflare%20Tunnel](https://img.shields.io/badge/Cloudflare%20Tunnel--0d1117?style=flat-square&logo=cloudflare)
-![Tailscale](https://img.shields.io/badge/Tailscale--0d1117?style=flat-square&logo=tailscale)
-![WireGuard%20VPN](https://img.shields.io/badge/WireGuard%20VPN--0d1117?style=flat-square&logo=wireguard)
+![Cloudflare%20Tunnel%20(cloudflared)](https://img.shields.io/badge/Cloudflare%20Tunnel%20(cloudflared)-111?style=flat-square&logo=cloudflare)
+![Tailscale](https://img.shields.io/badge/Tailscale-111?style=flat-square&logo=tailscale)
+![WireGuard](https://img.shields.io/badge/WireGuard%20VPN-111?style=flat-square&logo=wireguard)
 
-![Homarr](https://img.shields.io/badge/Homarr--0d1117?style=flat-square)
-![Home%20Assistant](https://img.shields.io/badge/Home%20Assistant--0d1117?style=flat-square&logo=homeassistant)
-![Nextcloud](https://img.shields.io/badge/Nextcloud--0d1117?style=flat-square&logo=nextcloud)
-![Immich](https://img.shields.io/badge/Immich--0d1117?style=flat-square)
-![Filebrowser](https://img.shields.io/badge/Filebrowser--0d1117?style=flat-square)
+![Homarr](https://img.shields.io/badge/Homarr-111?style=flat-square)
+![Home%20Assistant](https://img.shields.io/badge/Home%20Assistant-111?style=flat-square&logo=homeassistant)
+![Nextcloud](https://img.shields.io/badge/Nextcloud-111?style=flat-square&logo=nextcloud)
+![Immich](https://img.shields.io/badge/Immich-111?style=flat-square)
+![Filebrowser](https://img.shields.io/badge/Filebrowser-111?style=flat-square)
 
-![Jellyfin](https://img.shields.io/badge/Jellyfin--0d1117?style=flat-square&logo=jellyfin)
-![Jellyseerr](https://img.shields.io/badge/Jellyseerr--0d1117?style=flat-square)
-![qBittorrent](https://img.shields.io/badge/qBittorrent--0d1117?style=flat-square&logo=qbittorrent)
-![Radarr](https://img.shields.io/badge/Radarr--0d1117?style=flat-square)
-![Sonarr](https://img.shields.io/badge/Sonarr--0d1117?style=flat-square)
-![Prowlarr](https://img.shields.io/badge/Prowlarr--0d1117?style=flat-square)
-![Tdarr](https://img.shields.io/badge/Tdarr--0d1117?style=flat-square)
+![Jellyfin](https://img.shields.io/badge/Jellyfin-111?style=flat-square&logo=jellyfin)
+![Jellyseerr](https://img.shields.io/badge/Jellyseerr-111?style=flat-square)
+![qBittorrent](https://img.shields.io/badge/qBittorrent-111?style=flat-square&logo=qbittorrent)
+![Radarr](https://img.shields.io/badge/Radarr-111?style=flat-square)
+![Sonarr](https://img.shields.io/badge/Sonarr-111?style=flat-square)
+![Prowlarr](https://img.shields.io/badge/Prowlarr-111?style=flat-square)
+![Tdarr](https://img.shields.io/badge/Tdarr-111?style=flat-square)
 
-![n8n](https://img.shields.io/badge/n8n--0d1117?style=flat-square&logo=n8n)
-![Ollama](https://img.shields.io/badge/Ollama--0d1117?style=flat-square&logo=ollama)
-![Open%20WebUI](https://img.shields.io/badge/Open%20WebUI--0d1117?style=flat-square)
-![Vaultwarden](https://img.shields.io/badge/Vaultwarden--0d1117?style=flat-square&logo=bitwarden)
-![Crafty%20Controller](https://img.shields.io/badge/Crafty%20Controller--0d1117?style=flat-square)
+![n8n](https://img.shields.io/badge/n8n-111?style=flat-square&logo=n8n)
+![Ollama](https://img.shields.io/badge/Ollama-111?style=flat-square)
+![Open%20WebUI](https://img.shields.io/badge/Open%20WebUI-111?style=flat-square)
+![Vaultwarden](https://img.shields.io/badge/Vaultwarden-111?style=flat-square&logo=bitwarden)
+![Crafty%20Controller](https://img.shields.io/badge/Crafty%20Controller-111?style=flat-square)
+
 
 ---
 
