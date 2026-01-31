@@ -55,7 +55,9 @@
 
 ## 🚀 Featured Projects
 
-Soon™
+- **Homelab / Self-hosting** — Truenas + containers + automation (docs & configs)
+- **Automation workflows** — n8n experiments + self-hosted AI tooling
+- **Coursework & small builds** — programming exercises and labs
 
 ---
 
@@ -73,14 +75,13 @@ Soon™
 ---
 
 ## 🤝 Connect / Contact
-- LinkedIn: Soon™
-- Email: nichols.tyler13@gmail.com/nichols.ty@icloud.com
+- Email: nichols.tyler13@gmail.com
 - Location: Montréal, QC
 
 <details>
   <summary>📝 Notes</summary>
 
 - I’m always open to collaboration on practical projects and learning opportunities.  
-- Feel free to reach out if you want to build something cool together.
+- Feel free to reach out if you want to build something together.
 
 </details>
