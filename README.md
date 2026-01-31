@@ -1,19 +1,7 @@
 # 👋 Hello, I'm Tyler Nichols
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Passionate+Engineer;Lifelong+Learner;Open+Source+Lover&center=true&width=600&height=50" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/TylerNi">
-    <img src="https://img.shields.io/badge/GitHub-TylerNi-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="[https://www.linkedin.com/in/ton-lien]">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="mailto:[ton.email@exemple.com]">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com/?lines=Homelab+%26+Self-Hosting+Builder;Automation+%26+Workflows+(n8n);Networking+Learner;Linux+%26+Docker+Enthusiast;Engineering+Student+in+Montreal&center=true&width=850&height=50" alt="Typing SVG" />
 </p>
 
 ---
