@@ -43,7 +43,7 @@
 ![Portainer](https://img.shields.io/badge/Portainer-111?style=flat-square&logo=portainer)
 ![Windows%20VM](https://img.shields.io/badge/Windows%20VM-111?style=flat-square&logo=windows)
 
-![Cloudflare%20Tunnel](https://img.shields.io/badge/Cloudflare%20Tunnel%20(cloudflared)-111?style=flat-square&logo=cloudflare)
+![Cloudflare%20Tunnel](https://img.shields.io/badge/Cloudflare%20Tunnel-111?style=flat-square&logo=cloudflare)
 ![Tailscale](https://img.shields.io/badge/Tailscale-111?style=flat-square&logo=tailscale)
 ![WireGuard](https://img.shields.io/badge/WireGuard%20VPN-111?style=flat-square&logo=wireguard)
 
