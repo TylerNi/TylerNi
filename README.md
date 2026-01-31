@@ -40,7 +40,6 @@
 
 ### Self-hosted stack
 ![TrueNAS](https://img.shields.io/badge/TrueNAS-111?style=flat-square&logo=truenas)
-![Docker](https://img.shields.io/badge/Docker-111?style=flat-square&logo=docker)
 ![Portainer](https://img.shields.io/badge/Portainer-111?style=flat-square&logo=portainer)
 
 ![Cloudflare%20Tunnel%20(cloudflared)](https://img.shields.io/badge/Cloudflare%20Tunnel%20(cloudflared)-111?style=flat-square&logo=cloudflare)
