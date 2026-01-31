@@ -55,14 +55,7 @@
 
 ## 🚀 Featured Projects
 
-- **[Project Name 1]** — Short description (what it does + why it matters).  
-  Tech: `Python`, `Docker`, `Linux` • Repo: [link]
-
-- **[Project Name 2]** — Short description.  
-  Tech: `Java`, `Git` • Repo: [link]
-
-- **[Project Name 3]** — Short description.  
-  Tech: `JavaScript`, `API` • Repo: [link]
+Soon™
 
 ---
 
@@ -80,8 +73,8 @@
 ---
 
 ## 🤝 Connect / Contact
-- LinkedIn: [ton lien]
-- Email: [ton email]
+- LinkedIn: Soon™
+- Email: nichols.tyler13@gmail.com/nichols.ty@icloud.com
 - Location: Montréal, QC
 
 <details>
