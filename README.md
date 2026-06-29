@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Tyler Nichols
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Engineering+Student+at+%C3%89TS;Homelab+%26+Self-Hosting+Enthusiast;Java,+Python+%26+App+Developer;Building+Int%C3%A9gral+Scan+%26+Nexus&center=true&width=850&height=50" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Engineering+Student+at+%C3%89TS;Homelab+%26+Self-Hosting+Enthusiast;Java,+Python+%26+App+Developer;Building+Int%C3%A9gral+Scan&center=true&width=850&height=50" alt="Typing SVG" />
 </p>
 
 ---
