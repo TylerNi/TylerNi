@@ -1,13 +1,47 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Tyler%20Nichols&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Engineering%20Student%20%C2%B7%20%C3%89TS%20Montr%C3%A9al&descAlignY=58&descSize=18" width="100%" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Tyler%20Nichols&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Full%20Stack%20Developer%20%C2%B7%20%C3%89TS%20Montr%C3%A9al&descAlignY=58&descSize=18" width="100%" alt="Header" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&pause=1000&color=4FC3F7&center=true&vCenter=true&width=850&height=50&lines=Engineering+Student+at+%C3%89TS;Homelab+%26+Self-Hosting+Enthusiast;Java,+TypeScript+%26+Python+Developer;Building+self-hosted+web+apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&pause=1000&color=4FC3F7&center=true&vCenter=true&width=850&height=50&lines=Full+Stack+Developer;Engineering+Student+at+%C3%89TS;Homelab+%26+Self-Hosting+Enthusiast;Java,+TypeScript+%26+Python+Developer;Building+self-hosted+web+apps" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <a href="mailto:nichols.tyler13@gmail.com"><img src="https://img.shields.io/badge/Email-nichols.tyler13%40gmail.com-0f2027?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <img src="https://img.shields.io/badge/Montr%C3%A9al,_QC-203a43?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Montréal" />
 </p>
+
+---
+
+## ⭐ Main Project — Filtration Montréal / Furnace Filters Canada
+
+<table>
+<tr>
+<td>
+
+**🇬🇧** Custom e-commerce platform built to replace BigCommerce for two furnace filter stores: [furnacefilterscanada.com](https://furnacefilterscanada.com) (EN) and [filtrationmontreal.com](https://filtrationmontreal.com) (FR).  
+**🇫🇷** Plateforme e-commerce sur mesure qui remplace BigCommerce pour deux boutiques de filtres à fournaise.
+
+- 🛒 Bilingual storefront, cart & **Stripe** checkout, customer accounts with order & parcel tracking
+- 🤖 AI-powered filter identification from a photo
+- 🛠️ Back-office with granular RBAC, mandatory MFA and audit logs
+- 📱 iOS / Android mobile app
+- 🔐 Security-first: hardened auth, server-side RBAC, Québec Law 25 compliance
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
+![Turborepo](https://img.shields.io/badge/Turborepo-EF4444?style=flat-square&logo=turborepo&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+🚧 *In active development — private repository*
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -19,14 +53,14 @@
 
 **🇬🇧 EN**
 
-Engineering student based in Montréal. I like building practical projects, automating workflows, and learning how systems work from the ground up.
+Full stack developer and engineering student based in Montréal. I like building practical projects, automating workflows, and learning how systems work from the ground up.
 
 </td>
 <td width="50%" valign="top">
 
 **🇫🇷 FR**
 
-Étudiant en génie à Montréal. J’aime construire des projets concrets, automatiser des workflows, et comprendre les systèmes en profondeur.
+Développeur full stack et étudiant en génie à Montréal. J’aime construire des projets concrets, automatiser des workflows, et comprendre les systèmes en profondeur.
 
 </td>
 </tr>
