@@ -135,10 +135,4 @@ Développeur full stack et étudiant en génie à Montréal. J’aime construire
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=TylerNi&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
----
-
-## 🤝 Connect / Contact
-- 📧 Email: nichols.tyler13@gmail.com
-- 📍 Location: Montréal, QC
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%" alt="Footer" />
