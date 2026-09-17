@@ -53,22 +53,22 @@
 
 **🇬🇧 EN**
 
-Full stack developer and engineering student based in Montréal. I like building practical projects, automating workflows, and learning how systems work from the ground up.
+Full stack developer and engineering student based in Montréal, passionate about full stack development, self-hosting, open source, AI and networking. I like building practical projects, automating workflows, and learning how systems work from the ground up.
 
 </td>
 <td width="50%" valign="top">
 
 **🇫🇷 FR**
 
-Développeur full stack et étudiant en génie à Montréal. J’aime construire des projets concrets, automatiser des workflows, et comprendre les systèmes en profondeur.
+Développeur full stack et étudiant en génie à Montréal, passionné de développement full stack, d’auto-hébergement, d’open source, d’IA et de réseautique. J’aime construire des projets concrets, automatiser des workflows, et comprendre les systèmes en profondeur.
 
 </td>
 </tr>
 </table>
 
 - 🎓 Étudiant à l’**ÉTS Montréal**
-- 🌱 En apprentissage : Git, dev backend & web, networking, infra & self-hosting
-- 🧠 Interests: automation, home servers, Linux, programming fundamentals
+- 🌱 En apprentissage : Kubernetes, Proxmox, Swift / SwiftUI, réseautique avancée
+- 🧠 Interests: full stack development, self-hosting, open source, AI, networking
 - 📌 Goal: internships, collaboration, and real-world engineering projects
 
 ---
