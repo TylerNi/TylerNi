@@ -53,7 +53,7 @@
 
 **🇬🇧 EN**
 
-Full stack developer and engineering student based in Montréal, passionate about building apps end to end, self-hosting, open source, AI and networking. I like building practical projects, automating workflows, and learning how systems work from the ground up.
+Full stack developer and engineering student based in Montréal, passionate about creating apps end to end, self-hosting, open source, AI and networking. I like building practical projects, automating workflows, and learning how systems work from the ground up.
 
 </td>
 <td width="50%" valign="top">
