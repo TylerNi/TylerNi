@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Tyler%20Nichols&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Full%20Stack%20Developer%20%C2%B7%20%C3%89TS%20Montr%C3%A9al&descAlignY=58&descSize=18" width="100%" alt="Header" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&pause=1000&color=4FC3F7&center=true&vCenter=true&width=850&height=50&lines=Full+Stack+Developer;Engineering+Student+at+%C3%89TS;Homelab+%26+Self-Hosting+Enthusiast;Java,+TypeScript+%26+Python+Developer;Building+self-hosted+web+apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&pause=1000&color=4FC3F7&center=true&vCenter=true&width=850&height=50&lines=Full+Stack+Developer;Engineering+Student+at+%C3%89TS;Homelab+%26+Self-Hosting+Enthusiast;Building+self-hosted+web+apps" alt="Typing SVG" />
 </p>
 
 <p align="center">
