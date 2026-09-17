@@ -142,12 +142,4 @@ Développeur full stack et étudiant en génie à Montréal. J’aime construire
 - 📧 Email: nichols.tyler13@gmail.com
 - 📍 Location: Montréal, QC
 
-<details>
-  <summary>📝 Notes</summary>
-
-- I’m always open to collaboration on practical projects and learning opportunities.  
-- Feel free to reach out if you want to build something together.
-
-</details>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%" alt="Footer" />
