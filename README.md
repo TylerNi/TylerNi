@@ -66,7 +66,7 @@ Développeur full stack et étudiant en génie à Montréal. J’aime construire
 </tr>
 </table>
 
-- 🎓 Étudie au **CUT** à **l’ÉTS Montréal**
+- 🎓 Étudiant à l’**ÉTS Montréal**
 - 🌱 En apprentissage : Git, dev backend & web, networking, infra & self-hosting
 - 🧠 Interests: automation, home servers, Linux, programming fundamentals
 - 📌 Goal: internships, collaboration, and real-world engineering projects
